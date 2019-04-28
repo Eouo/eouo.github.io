@@ -79,10 +79,10 @@ body.sub-page .header-text img{max-height: 200px;}
 header{background-size: cover;background-image: url(../images/showcase_bg.jpg);background-repeat: no-repeat;background-position: 50% top;min-height: 850px; }
 
 /* Header Styles */
-.header-text {color: #111;padding: 150px 150px 0 150px;}
+.header-text {color: #111;padding: 10px 150px 0 150px;}
 .header-text img{max-height: 300px;}
 
-.header-text-inner{ max-width: 570px;padding: 35px;text-align: right;}
+.header-text-inner{ max-width: 800px;padding: 35px;text-align: left;}
 
 .header-text h1{margin-top: 0;margin-bottom: 0;text-transform: uppercase;color: #111;font-weight: 700;font-size: 40px;margin-bottom: 20px;letter-spacing: 2px;font-size: 45px;line-height: 1}
 .header-text p{ margin-bottom: 50px;font-size: 15px;font-weight: 300;}
